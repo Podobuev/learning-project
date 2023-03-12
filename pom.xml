@@ -20,7 +20,7 @@
         <url>https://github.com/Podobuev/learning-project.git</url> <!-- URL HTTP de clone do projeto -->
         <connection>scm:git:https://github.com/Podobuev/learning-project.git</connection> <!-- URL HTTP de clone do projeto -->
         <developerConnection>scm:git:https://github.com/Podobuev/learning-project.git</developerConnection> <!-- URL HTTP de clone do projeto -->
-        <tag>HEAD</tag>
+        <tag>0.0.7</tag>
     </scm>
 
     <dependencies>
